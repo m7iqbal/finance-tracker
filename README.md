@@ -33,24 +33,24 @@ This project simulates a personal finance tracking system with:
 
 ## 🗂️ Project Structure
 
-finance-tracker/
-├── week1day1.py                   # Python basics and data structures
-├── week1day2_csv.py               # CSV read/write
-├── week1day2_connect.py           # Python + PostgreSQL connection
-├── week1day3_pandas.py            # Pandas data analysis
-├── week1day3_from_db.py           # PostgreSQL to Pandas pipeline
-├── week1day3_challenge.py         # Pandas challenges
-├── week1day4_charts.py            # Matplotlib + Seaborn charts
-├── week1day5_dashboard.py         # Streamlit interactive dashboard
-├── week1day6_mongo.py             # MongoDB document storage
-├── week1day6_challenge.py         # MongoDB queries
-├── week1day7_redis.py             # Redis caching
-├── week1day7_challenge.py         # Redis challenges
-├── week1day7_final_project.py     # Full pipeline — all tools together
-├── week2_day1_flink.py            # Real-time streaming alerts
-├── week2_day1_challenge.py        # Flink challenge
-├── requirements.txt               # Python dependencies
-└── README.md                      # Project documentation
+- finance-tracker/
+- ├── week1day1.py                   # Python basics and data structures
+- ├── week1day2_csv.py               # CSV read/write
+- ├── week1day2_connect.py           # Python + PostgreSQL connection
+- ├── week1day3_pandas.py            # Pandas data analysis
+- ├── week1day3_from_db.py           # PostgreSQL to Pandas pipeline
+- ├── week1day3_challenge.py         # Pandas challenges
+- ├── week1day4_charts.py            # Matplotlib + Seaborn charts
+- ├── week1day5_dashboard.py         # Streamlit interactive dashboard
+- ├── week1day6_mongo.py             # MongoDB document storage
+- ├── week1day6_challenge.py         # MongoDB queries
+- ├── week1day7_redis.py             # Redis caching
+- ├── week1day7_challenge.py         # Redis challenges
+- ├── week1day7_final_project.py     # Full pipeline — all tools together
+- ├── week2_day1_flink.py            # Real-time streaming alerts
+- ├── week2_day1_challenge.py        # Flink challenge
+- ├── requirements.txt               # Python dependencies
+- └── README.md                      # Project documentation
 
 ## ⚙️ Setup and Installation
 
