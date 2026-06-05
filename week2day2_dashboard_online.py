@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- DARK MODE ---
-dark_mode = st.sidebar.toggle("🌙 Dark Mode", value=False)
+dark_mode = st.sidebar.toggle("🌙 Dark Mode", value=True)
 
 if dark_mode:
     st.markdown("""
