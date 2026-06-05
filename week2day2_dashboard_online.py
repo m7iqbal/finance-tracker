@@ -32,7 +32,7 @@ st.title("💰 Personal Finance Dashboard")
 st.markdown("Tracking my monthly income and expenses — May 2026")
 
 # --- LOAD DATA FROM CSV ---
-@st.cache_data
+@st.cache_data(ttl=60)
 def load_data():
     df = pd.read_csv("transactions.csv")
     df["date"] = pd.to_datetime(df["date"])
