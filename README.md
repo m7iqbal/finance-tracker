@@ -8,6 +8,9 @@ real-world data engineering and analysis skills.
 ![Dashboard](dashboard_preview2.png)
 ![Dashboard](dashboard_preview3.png)
 
+## 📊 Power BI Dashboard
+![Power BI Dashboard](powerbi_preview.png)
+
 ## 🚀 Tech Stack
 
 | Tool | Purpose |
