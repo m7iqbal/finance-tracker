@@ -4,9 +4,7 @@ A full end-to-end data analytics project demonstrating
 real-world data engineering and analysis skills.
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard_preview1.png)
-![Dashboard](dashboard_preview2.png)
-![Dashboard](dashboard_preview3.png)
+![Dashboard](dashboard_preview.png)
 
 ## 📊 Power BI Dashboard
 ![Power BI Dashboard](powerbi_preview.png)
