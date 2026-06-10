@@ -94,6 +94,21 @@ in real time and fires alerts for:
 
 All alerts stored in Redis for instant retrieval.
 
+## ✅ Testing
+
+Unit tested with pytest — 35+ tests covering:
+- Financial calculation functions
+- Streaming alert rules
+- Edge cases and boundary conditions
+- Parametrized multi-input testing
+- Mocked external connections (Redis, PostgreSQL)
+
+Run tests:
+pytest test_finance.py test_finance_advanced.py -v
+
+Run with coverage:
+pytest test_finance.py test_finance_advanced.py -v --cov=finance_functions
+
 ## 👨‍💻 Author
 
 **iQbalhoran**
