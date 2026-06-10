@@ -184,9 +184,9 @@ st.pyplot(fig3)
 
 # --- COMMITMENT BREAKDOWN ---
 st.markdown("---")
-st.subheader("🔒 Commitment Breakdown")
+st.subheader("🔒 Commitment & Loan Breakdown")
 
-commitment_df = df[df["category"] == "Commitment"]
+commitment_df = df[df["category"].isin(["Commitment", "Loan"])]
 commitment_breakdown = (
     commitment_df[commitment_df["amount"] < 0]
     .groupby("description")["amount"]
